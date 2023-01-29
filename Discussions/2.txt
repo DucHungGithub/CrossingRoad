@@ -1,0 +1,8 @@
+Thứ 3, 25/10/2022 họp offline
+-Thống nhất phân chia, công việc ban đầu
+-Phân chia class cho mỗi người dùng hàm sfml có sẵn
+	Khang: class People
+	Khanh: class Vehicle
+	Việt: class Animal
+	Hưng: class game
+-Ngày họp tiếp theo: thứ 3, ngày 2/11/2022 họp off

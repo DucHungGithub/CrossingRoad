@@ -1,0 +1,9 @@
+chủ nhật, 27/11/2022 họp online
+-Demo project hiện tại và kiểm tra tính ổn định của việc chạy
+-Phân chia nhiệm vụ soạn pattern cho mỗi người
+	Khang: 1,2,3
+	Khanh: 4,5
+	Việt: 7,8
+	Hưng: 6,9
+- Mỗi người sẽ làm và chỉnh sửa nhận xét cho nhau vào 2/12/2022
+-Ngày họp tiếp theo: chủ nhật, 4/12/2022

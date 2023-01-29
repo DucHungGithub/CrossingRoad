@@ -1,0 +1,8 @@
+Thứ 4, 2/11/2022 họp offline
+-Tiếp tục hoàn chỉnh class và chạy main
+-Phân chia class cho mỗi người dùng hàm sfml có sẵn
+	Khang: Tính điểm, xử lí người, xử lí di chuyển người
+	Khanh: class Vehicle chèn ảnh và điều khiển di chuyển, va chạm
+	Việt: class Animal chèn ảnh và điều khiển di chuyển, va chạm
+	Hưng: làm màn hình hiển thị thành tích và các nút xử lí chuột
+-Ngày họp tiếp theo: thứ 4, ngày 9/11/2022 họp off

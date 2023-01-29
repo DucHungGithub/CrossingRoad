@@ -1,0 +1,7 @@
+ngày 28/12/2022, thứ 4 họp online
+Việt: thay đổi chiều của làn xe, fix bug chim lấn hàng
+Khang: hiển thị score cho người dùng biết
+Khanh: lưu thiêm score và tiền xu
+Hưng: xử lí biến trong khung setting 
+
+Ngày họp tiếp theo 31/12/2022

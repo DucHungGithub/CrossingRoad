@@ -1,0 +1,9 @@
+Thứ 4, 19/10/2022 họp online
+-Thống nhất phân chia, công việc ban đầu
+-Phân chia class cho mỗi người
+	Khang: class People
+	Khanh: class Vehicle
+	Việt: class Animal
+	Hưng: class game
+-Ngày họp tiếp theo: thứ 3, ngày 25/10/2022 họp off
+	

@@ -1,0 +1,7 @@
+ngày 21/12/2022, thứ 4 họp online
+Việt: phân cấp level ở làn đường(5 level), và setting(Confi)
+Khang: xử lý dừng cho các vật cản và làm tính điểm vào file txt
+Khanh: lưu và save cái hàm GameUI vào file txt
+Hưng: làm giao diện setting và giao diện cho việc xử lý xung đột
+
+Ngày họp tiếp theo 27/12/2022

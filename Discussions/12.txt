@@ -1,0 +1,4 @@
+Ngày 7/1/2023
+Phân chia công việc:
+	-Việt, Khang: Tạo class Diagram cho project
+	-Hưng, Khanh: Viết report tổng kết cho project

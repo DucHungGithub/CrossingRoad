@@ -1,0 +1,8 @@
+Thứ 4, 9/11/2022 họp offline
+-Tiếp tục hoàn chỉnh class và chạy main, thêm âm thanh, và sửa lỗi Texture
+-Phân chia class cho mỗi người dùng hàm sfml có sẵn
+	Khang: Tìm nhạc và tối ưu hóa việc tính điểm và class People
+	Khanh: class Vehicle chèn ảnh và điều khiển di chuyển, va chạm, đưa ảnh lên chạy
+	Việt: class Animal chèn ảnh và điều khiển di chuyển, va chạm, đưa ảnh lên chạy
+	Hưng: xử lí pause, save và thêm âm thanh, xử lý hiển thị khung
+-Ngày họp tiếp theo: chủ nhật, ngày 27/11/2022 họp online
